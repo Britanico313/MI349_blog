@@ -4,7 +4,7 @@ body {
   }
   header{ 
     background-color: rgb(128, 204, 162);
-    padding: 10px;
+    padding: 15px;
     text-align: center;
   }
   h1 h2{
@@ -18,3 +18,11 @@ body {
     display: inline-block;
     margin-right: 20px;
   }
+  nav a {
+    text-decoration: none;
+    color: #696464;
+    font-weight: bold;
+  }
+article {
+    display: flex;
+    flex-direction: column;}
