@@ -2,3 +2,8 @@ body {
     background-color: bisque;
     font-family: 'Arial', serif;
   }
+  header{ 
+    background-color: azure;
+    padding: 10px;
+    text-align: center;
+  }
