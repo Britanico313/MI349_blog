@@ -42,10 +42,7 @@ footer {
       text-align: center;} 
 form {
       margin-top: 20px;}
-form {
-       display: flex;
-      flex-direction: row;
-      width: 300px;}
+
 nav {
       position: sticky;
         top: 0;
