@@ -56,12 +56,14 @@ label {display: block;
           }
 input, select, textarea {
     width: 50%;
-    box-sizing: content-box;}
+    box-sizing: content-box;
+  text-align: center;}
   button {
       background-color: #fff;
       color:#333;
       padding: 10px ;
-      width: 100px;}
+      width: 100px;
+    text-align: center;}
 form {display: flex;
       flex-direction: column;  }
         
