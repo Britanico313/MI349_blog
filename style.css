@@ -58,9 +58,10 @@ input, select, textarea {
     width: 50%;
     box-sizing: content-box;}
   button {
-      background-color: #333;
-      color: #fff;
-      padding: 10px ;}
+      background-color: #fff;
+      color:#333;
+      padding: 10px ;
+      width: 100px;}
 form {display: flex;
       flex-direction: column;  }
         
