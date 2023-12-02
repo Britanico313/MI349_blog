@@ -67,7 +67,7 @@ body {
  ;
     flex-direction: column;}
 
-  button {
+  button.index {
       background-color: #fff;
       color:#333;
       padding: 10px ;
@@ -85,10 +85,3 @@ body {
         margin-right: 10px;
         margin-bottom: 10px;
       }
-  section.about{ section {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: rgb(138, 113, 113)a1a;
-    box-shadow: 0 0 10px rgba(80, 80, 80, 0.1);}
-}
