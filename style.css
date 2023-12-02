@@ -46,7 +46,7 @@ form {
        display: flex;
       flex-direction: column;
       width: 300px;
-      }
+      align: center ;}
 nav {
       position: sticky;
         top: 0;
