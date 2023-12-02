@@ -42,6 +42,9 @@ footer {
       text-align: center;} 
 form {
       margin-top: 20px;}
- nav {
-      position: sticky;}
+nav {
+      position: sticky;
+        top: 5;
+        z-index: 100;
+        background-color: #333;}
         
