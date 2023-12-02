@@ -59,7 +59,7 @@ input, select, textarea {
     padding: 5px;
     margin-bottom: 5px;
     box-sizing: border-box
-    left 50%;
+    left 100px;
  ;
 flex-direction: column;}
   button {
@@ -68,7 +68,7 @@ flex-direction: column;}
       padding: 10px ;
       width: 100px;
    flex-direction: column;
-  left: 50%}
+  left: 100px}
 form {display: flex;
       flex-direction: column;}
 img {
