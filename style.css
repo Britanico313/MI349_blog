@@ -60,18 +60,21 @@ article {
       font-weight: bold;
           }
 
-input, select.index.html {
+input, select.index {
     width: 50%;
     padding: 5px;
     margin-bottom: 5px;
  ;
     flex-direction: column;}
 
-button.index.html {
+button.index {
       background-color: #fff;
       color:#333;
       padding: 10px ;
       width: 100px;
    flex-direction: column;
   left: 100px}
-
+section.index {
+  display: flex;
+  justify-content: space-between;
+}
