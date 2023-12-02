@@ -60,7 +60,7 @@ body {
       font-weight: bold;
           }
 
-  input, select {
+  input, select.index,html {
     width: 50%;
     padding: 5px;
     margin-bottom: 5px;
