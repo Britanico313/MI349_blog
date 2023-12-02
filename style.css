@@ -34,3 +34,9 @@ body {
 article {
     display: flex;
     flex-direction: column;}
+
+footer {
+      background-color: #333;
+      color: rgb(128, 204, 162);
+      padding: 15px;
+      text-align: center;} 
