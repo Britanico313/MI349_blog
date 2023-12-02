@@ -67,7 +67,7 @@ body {
  ;
     flex-direction: column;}
 
-  button.index {
+  button.index.html {
       background-color: #fff;
       color:#333;
       padding: 10px ;
