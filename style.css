@@ -43,8 +43,7 @@ article.index {
       text-align: center;} 
 
   form {
-      margin-top: 20px; display: flex;
-      flex-direction: column;}
+      margin-top: 20px;}
 
   nav {
       position: sticky;
@@ -78,3 +77,6 @@ section.index {
   display: flex;
   justify-content: space-between;
 }
+form {
+  display: flex;
+  flex-direction: column;}
