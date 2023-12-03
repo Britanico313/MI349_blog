@@ -31,7 +31,7 @@ body {
     background-color: rgb(138, 113, 113)a1a;
     box-shadow: 0 0 10px rgba(80, 80, 80, 0.1);}
 
-article {
+article.index {
     display: flex;
     flex-direction: column;}
 
