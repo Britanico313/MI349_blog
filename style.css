@@ -24,6 +24,7 @@ body {
     font-weight: bold;
     margin-right: 10px;
   }
+  /* Simplicity */
   section {
     max-width: 800px;
     margin: 20px auto;
@@ -74,3 +75,4 @@ section {
   display: flex;
   justify-content: space-between;
 }
+/* really going for simply and modular*/
