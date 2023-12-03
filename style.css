@@ -70,7 +70,7 @@ button.index {
       width: 100px;
    flex-direction: column;
   left: 100px}
-section.index {
+section {
   display: flex;
   justify-content: space-between;
 }
